@@ -7,6 +7,8 @@ export {
 } from './buttons';
 
 export {
+    XXLTitle,
+    XLTitle,
     LargeTitle,
     MediumTitle,
     SmallTitle,
@@ -16,6 +18,7 @@ export {
     RegularText,
     SmallText,
     TinyText,
+    DrawerLable
 } from './text';
 
 export {
@@ -24,16 +27,24 @@ export {
     IconWithText,
     MenuIcon,
     FilterIcon,
-    IconButton
+    IconButton,
+    TouchableCustomIcon
 } from './icons'
 
 export {
     MainWrapper,
+    MainWrapperPrimary,
+    ImageBackgroundWrapper,
+    MaterialBackgroundWrapper,
+    Wrapper,
     RowWrapper,
     ComponentWrapper,
-    RowWrapperBasic
+    RowWrapperBasic,
+    AbsoluteWrapper,
+    HeaderWrapperPrimary,
+    FooterWrapperPrimary,
+    CardWrapper,
 } from './wrappers'
-
 export {
     Spacer
 } from './spacers'
@@ -48,8 +59,16 @@ export {
 } from './logos'
 
 export {
+    Card
 } from './Cards'
 
 export {
     LineHorizontal
 } from './lines'
+
+export {
+    ImageRound,
+    ImageSqareRound,
+    ImageCollectionItem,
+    ImageBackgroundTop
+} from './images'
