@@ -1,4 +1,4 @@
-package com.walkfriend;
+package com.rn_structure_63;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "WalkFriend";
+    return "RN_Structure_63";
   }
 }
